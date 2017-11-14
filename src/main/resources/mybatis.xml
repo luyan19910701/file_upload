@@ -1,0 +1,11 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">-->
+<!--<configuration>-->
+    <!--&lt;!&ndash;<settings>&ndash;&gt;-->
+        <!--&lt;!&ndash;<setting name="mapUnderscoreToCamelCase" value="true" />&ndash;&gt;-->
+        <!--&lt;!&ndash;<setting name="logImpl" value="LOG4J"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;</settings>&ndash;&gt;-->
+    <!--<typeAliases>-->
+        <!--<typeAlias type="cn.xzxunda.domain.Sys_File" alias="sys_file"/>-->
+    <!--</typeAliases>-->
+<!--</configuration>-->
