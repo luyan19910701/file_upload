@@ -90,6 +90,8 @@ public class DocumentController {
                 sys_file.setFileType(fileType[fileType.length-1]);
                 sys_file.setCreateDate(simpleDateFormat.format(date));
 
+
+
                 logger.info("中文文件名为============="+sys_file.getFileName());
 
 //                requestMap.put("id",uuid.toString());
